@@ -18,3 +18,12 @@ Slack is a messaging app that connects the users in professional environment. It
   |Fields|Descriptions|Data Type
   |----|-----|------
   |List|This is where you describe your campaign|Data Type
+  - [ ] List1
+  - [x] List2
+  - [X] List3
+   Slack is a messaging app that connects the users in professional environment
+~~Slack is a messaging app that connects the users in professional environment~~
+😂
+
+
+  
