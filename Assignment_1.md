@@ -11,5 +11,7 @@ Slack is a messaging app that connects the users in professional environment. It
 * project1
 * Project2
   *project1
-  ```Slack is a messaging app that connects the users in professional environment```.
+  ```
+  Slack is a messaging app that connects the users in professional environment
+  ```
   
