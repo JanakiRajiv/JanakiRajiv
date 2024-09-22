@@ -24,6 +24,7 @@ Slack is a messaging app that connects the users in professional environment. It
    Slack is a messaging app that connects the users in professional environment
 ~~Slack is a messaging app that connects the users in professional environment~~
 😂
+![Uploading DSC09026.PNG…]()
 
 
   
