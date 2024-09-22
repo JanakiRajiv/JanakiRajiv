@@ -14,4 +14,6 @@ Slack is a messaging app that connects the users in professional environment. It
   ```
   Slack is a messaging app that connects the users in professional environment
   ```
-  
+  |Fields|Descriptions|Data Type
+  |----|-----|------
+  |List|This is where you describe your campaign|Data Type
