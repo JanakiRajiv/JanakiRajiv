@@ -1,7 +1,7 @@
-# H1 User Guide for Slack
-## H2 Description
+#  User Guide for Slack
+## Description
 Slack is a messaging app that connects the users in professional environment. It enables the users to get instant replies. **Facilitates to connect with multiple people at the same time**. It has variety of features to bring teams together and work efficiently. 
-### H3 Feature
+## Feature
  Slack has multiple features to enhance teams’ collaboration. 
  *Listed key elements below*:
  1. This platform enables streamlined communications that transcends email reduction.
@@ -16,11 +16,13 @@ Slack is a messaging app that connects the users in professional environment. It
 10. In the chat window there are multiple options to send video/audio clips
 11. It enables to make a special mention of a person using @followed by their name
 
-![alt text] 
-#### H4 Installation Guide
+![alt text] ![Uploading image.png…]()
+
+
+## Installation Guide
 Steps are provided to download slack in **Desktop** and **Mobile**.
 
- <u> Desktop
+ Desktop
 1.	Slack can be downloaded from official website/ organization’s software center. 
 2.	Click on download
 3.	Locate the file in your downloads folder (Download file name with begin with Slack –desktop)
@@ -28,7 +30,7 @@ Steps are provided to download slack in **Desktop** and **Mobile**.
 5.	Click install
 6.	Sign in with the credentials
 
-<u> Mobile
+Mobile
 1.	Open Google play store 
 2.	Find Slack app
 3.	Click on Download 
@@ -36,7 +38,7 @@ Steps are provided to download slack in **Desktop** and **Mobile**.
 
 Note: The procedure remains the same on Mac book and iPhone. Instead of play store open Appstore to find the apps   
 
-##### H5 Frequently asked questions  
+## Frequently asked questions  
 
 How to start a new chat? 
 Search with the name or email ID, the drop down displays the result. Select the person and send the message.
